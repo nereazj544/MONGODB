@@ -1,0 +1,62 @@
+[{
+    "Nombre": "Shawn Froste",
+    "Nacionalidad": "Japonés",
+    "Posición(es)": " DF",
+    "Elemento": "Aire",
+    "Equipos": "Inazuma Japón"
+},
+{
+    "Nombre": "Byron Love",
+    "Nacionalidad": "Sur Coreano",
+    "Posición(es)": "MD",
+    "Elemento": "Bosque",
+    "Equipos": "Dragones de Fuego"
+},
+
+{
+    "Nombre": "Claude Beacons",
+    "Nacionalidad": "Sur Coreano",
+    "Posición(es)": "DL",
+    "Elemento": "Fuego",
+    "Equipos": "Dragones de Fuego"
+},
+
+{
+    "Nombre": "Hakuryuu",
+    "Nacionalidad": "Japones",
+    "Posición(es)": "DL",
+    "Elemento": "Aire",
+    "Equipos": "Luz Eterna"
+},
+
+{
+    "Nombre": "Simeon Ayp",
+    "Nacionalidad": "Desconocido",
+    "Posición(es)": "DL",
+    "Elemento": "Montaña",
+    "Equipos": "Ragnah"
+},
+{
+    "Nombre": "Xavier Schiller",
+    "Nacionalidad": "Japones",
+    "Posición(es)": "MD",
+    "Elemento": "Fuego",
+    "Equipos": "Inazuma Japon"
+},
+
+{
+    "Nombre": "Aitor Cazador",
+    "Nacionalidad": "Japones",
+    "Posición(es)": "DF",
+    "Elemento": "Bosque",
+    "Equipos": "Instituto Raimon (Go)"
+},
+
+{
+    "Nombre": "JP",
+    "Nacionalidad": "Japones",
+    "Posición(es)": "PR",
+    "Elemento": "Montaña",
+    "Equipos": "Instituto Raimon (Go)"
+}
+]
